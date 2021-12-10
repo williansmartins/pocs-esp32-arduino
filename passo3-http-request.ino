@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 
 const char* ssid = "JRFiber-NAYARA";
-const char* password = "martins2020na";
+const char* password = "xxxxxx";
 int LED = 2;
 
 // the following variables are unsigned longs because the time, measured in
